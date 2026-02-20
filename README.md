@@ -86,6 +86,6 @@ Python packages:
 - `report_text.md` – Narrative text to include in your PDF report
 - `README.md` – This reproducibility guide By CrownMatrix Technologies Limited
 
-======================================================
-=         By CrownMatrix Technologies Limited        =
-======================================================
+================================
+By CrownMatrix Technologies Limited
+================================
